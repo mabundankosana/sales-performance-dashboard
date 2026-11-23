@@ -36,4 +36,4 @@ Developed practical Excel skills by transforming raw sales data into meaningful 
 
 ## Dashboard Preview
 
-![Sales Performance Dashboard](sales-dashboard.png)
+![Sales Performance Dashboard](sales-dashboard.png.png)
