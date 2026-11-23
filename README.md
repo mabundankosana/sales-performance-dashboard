@@ -33,3 +33,7 @@ This project analyses sales data using Microsoft Excel. The dashboard provides i
 
 ## Key Learning Outcome
 Developed practical Excel skills by transforming raw sales data into meaningful business insights through formulas, calculations, and visualisations.
+
+## Dashboard Preview
+
+![Sales Performance Dashboard](sales-dashboard.png)
